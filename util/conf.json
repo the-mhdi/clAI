@@ -1,0 +1,9 @@
+{
+    "GEMINI_API_KEY": "sc,;sa,f",
+    "Model": "gemini-1.5-pro-002",
+    "Temperature": 1.5,
+    "TopK": 40,
+    "TopP": 0.95,
+    "MaxOutput": 8192,
+    "ResponseMIMEType": "text/plain"
+  }
